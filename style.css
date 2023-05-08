@@ -1,0 +1,56 @@
+/* Set background color for the body */
+body {
+    background-color: #f8f9fa;
+   }
+   /* Style the container */
+   .container {
+    max-width: 630px;
+    margin-top: 50px;
+    padding: 6px;
+    border: 3px solid #ccc;
+    border-radius: 5px;
+    background-color: #d3d3d3;
+   }
+   /* Center the title */
+   .title-row {
+    text-align: center;
+    margin-bottom: 20px;
+   }
+   /* Add some margin to the form */
+   .form-row {
+    margin-bottom: 20px;
+   }
+   /* Style the form label */
+   .form-group label {
+    font-weight: bold;
+   }
+   /* Style the form input */
+   .form-group input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+   }
+   /* Style the login button */
+   .btn-login {
+    background-color: #007bff;
+    border-color: #007bff;
+    color: #fff;
+    transition: background-color 0.3s ease;
+   }
+   .btn-login:hover {
+    background-color: #0069d9;
+    border-color: #0062cc;
+   }
+   /* Style the cancel button */
+   .btn-cancel {
+    background-color: #89949d;
+    border-color: #6c757d;
+    color: #fff;
+    transition: background-color 0.3s ease;
+   }
+   .btn-cancel:hover {
+    background-color: #5a6268;
+    border-color: #545b62;
+   }
+   
